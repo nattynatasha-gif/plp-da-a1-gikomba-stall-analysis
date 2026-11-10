@@ -2,7 +2,7 @@
 
 **Analyst:** Natasha Adhiambo Oduor  
 **Role:** Freelance Data Analyst (for Wanjiku, Gikomba Market)  
-**Cohort:** One Million Devs – Data Analytics with Python
+**Cohort:** One Million Devs - Data Analytics with Python
 
 ## Business Problem
 Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded her daily sales and rough stock levels by hand for the last two weeks. She wants to know how her business is doing, whether it is growing, what she should restock, and where she should focus her effort. This project answers those questions using core Python only (no pandas or NumPy).
@@ -16,5 +16,5 @@ Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded her daily 
 
 ## Top Three Findings
 1. **Sales are growing:** week 2 (KES 24,400) was 10.66% higher than week 1 (KES 22,050).
-3. **Weekends drive sales:** the weekend average (KES 4,900) is 82.49% higher than the weekday average (KES 2,685).
+2. **Weekends drive sales:** the weekend average (KES 4,900) is 82.50% higher than the weekday average (KES 2,685).
 3. **Two products need restocking:** Tomatoes (18 kg vs reorder level 25 kg) and Sukuma (9 kg vs 15 kg).
